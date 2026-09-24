@@ -1,3 +1,6 @@
 [submodule "Om_Hospital"]
 	path = Om_Hospital
 	url = https://github.com/Diyashingala5/h_repo.git
+[submodule "h_repo"]
+	path = h_repo
+	url = https://github.com/Diyashingala5/h_repo.git
